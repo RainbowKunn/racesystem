@@ -38,6 +38,8 @@ Bu eklenti, oyuncuların karakterlerini seviyeler kazanarak geliştirmelerini ve
 - **Özel Eşyalar**: Her ırk için özel yeteneklere sahip eşyalar
 - **LuckPerms Entegrasyonu**: Irk bazlı izinler için destek
 - **Tam Yapılandırılabilir**: Tüm özellikler config dosyasından özelleştirilebilir
+- **Party Sistemi Uyumu**: Parties plugini ile tam uyumuyla, çoğu yetenek party üyeleriyle iç içe çalışır.
+- **Party Yetenek Sistemi**: Partindeki yoldaşlarının yeteneklerini kullanabilirsin!
 
 ## Kurulum
 - Parties / Vault / EssentialsX kurulumu **zorunlu** eklentilerdir.
