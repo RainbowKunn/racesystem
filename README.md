@@ -421,14 +421,14 @@ C: Evet, LuckPerms olmadan da eklenti tamamen çalışır. Sadece ırk bazlı iz
 
 ## İletişim
 
-**Discord**: https://discord.gg/irksistemine-katil  
-**E-posta**: irksistemi@example.com
+**Discord**: 315523846331432960
+**E-posta**: racesystem99@gmail.com
 
 ---
 
-### Teşekkürler
+### Teşekkürler / Satın Alım
 
-- Eklentiyi kullandığınız için teşekkür ederiz!
+- Eklentiyi satın almak için Discord ile iletişime geçebilirsiniz.
 - Geri bildirim ve önerileriniz için bize ulaşın.
 - Yeni özellikler ve güncellemeler için Discord sunucumuza katılın.
 
