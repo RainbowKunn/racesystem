@@ -142,6 +142,7 @@ IrkSistemi eklentisi, dört benzersiz ırk sunar. Her ırkın kendi özellikleri
 - Taş Kalp: Maksimum canı artırma (3 seviye)
 - Alet Ustası: Alet dayanıklılığını artırma
 - Acele: Gece görüşü yeteneği
+- VE DAHA FAZLASI
 
 **Aktif Yetenekler:**
 - Liderlik: Yakındaki takım arkadaşlarını güçlendirir
@@ -149,6 +150,7 @@ IrkSistemi eklentisi, dört benzersiz ırk sunar. Her ırkın kendi özellikleri
 - Kutsal Kalkan: Hasar azaltan koruyucu alan yaratır
 - İlkyardım: Yakındaki oyuncuları iyileştirir
 - Yansıtıcı Zırh: Alınan hasarın bir kısmını geri yansıtır
+- VE DAHA FAZLASI
 
 ### Cüce Irkı
 
@@ -165,6 +167,7 @@ Cüceler dayanıklı ve güçlü madencilerdir. Yeraltında avantajlıdırlar ve
 - Derin Nefes: Su altında daha uzun süre nefes alma
 - Metal Ustası: Alet üretiminde malzeme tasarrufu
 - Doğa Direnci: Sıcak/soğuk hasarına karşı direnç
+- VE DAHA FAZLASI
 
 **Aktif Yetenekler:**
 - Yer Altı Yolu: Kısa mesafeli ışınlanma
@@ -172,6 +175,7 @@ Cüceler dayanıklı ve güçlü madencilerdir. Yeraltında avantajlıdırlar ve
 - Deprem: Etraftaki düşmanlara hasar verir ve fırlatır
 - Cüce Gazabı: Etraftaki bloklara ve düşmanlara hasar verir
 - Örs Yağmuru: Düşmanların üzerine örsler düşürür
+- VE DAHA FAZLASI
 
 ### Elf Irkı
 
@@ -188,6 +192,7 @@ Elfler çevik ve doğa ile uyumlu bir ırktır. Okçulukta ustadırlar ve doğad
 - Sarmaşık Adımlar: Ot üzerinde koşarken hız kazanma
 - Zehirli Oklar: Ok atışlarının zehirleme şansı
 - Ay Şifası: Gece vakti daha hızlı iyileşme
+- VE DAHA FAZLASI
 
 **Aktif Yetenekler:**
 - Doğa Kontrolü: Bitkileri hızla büyütür
@@ -195,6 +200,7 @@ Elfler çevik ve doğa ile uyumlu bir ırktır. Okçulukta ustadırlar ve doğad
 - Gölge Bağı: Hedefi belirli bir süre sabitler
 - Ay Işığı Salvosu: Hızlı ok atışları yapar
 - Ormanın Kalbi: Çevredeki dost birimleri iyileştirir
+- VE DAHA FAZLASI
 
 ### Ork Irkı
 
@@ -211,6 +217,7 @@ Orklar vahşi ve güçlü savaşçılardır. Yakın dövüşte avantajlıdırlar
 - Savaş İçgüdüsü: Düşük canda hasar artışı
 - Zırh Kırıcı: Düşmanların zırh korumasını azaltır
 - Acimasız Öldürüş: Kritik vuruşlarda iyileşme
+- VE DAHA FAZLASI
 
 **Aktif Yetenekler:**
 - Ork Savaş Çığlığı: Güç verir ve yakındaki düşmanları korkutur
@@ -218,6 +225,7 @@ Orklar vahşi ve güçlü savaşçılardır. Yakın dövüşte avantajlıdırlar
 - Çarşaf Zincirleri: Düşmanları etkisiz hale getirir
 - Kızgın Zırhlı: Yakın dövüş hasarı verir ve kendini güçlendirir
 - Yırtıcı Canavarın Hücumu: Geçici olarak hız ve güç kazanır
+- VE DAHA FAZLASI
 
 ## Yetenek Sistemi
 
