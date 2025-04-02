@@ -19,7 +19,6 @@
 - [Placeholder'lar](#placeholderlar)
 - [Yapılandırma](#yapılandırma)
 - [LuckPerms Entegrasyonu](#luckperms-entegrasyonu)
-- [API Kullanımı](#api-kullanımı)
 - [Sık Sorulan Sorular](#sık-sorulan-sorular)
 - [İletişim](#i̇letişim)
 
