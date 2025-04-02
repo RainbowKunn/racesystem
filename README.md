@@ -1,6 +1,6 @@
-# IrkSistemi Eklentisi
+# RaceForge Eklentisi (Irk Sistemi)
 
-![IrkSistemi Logo]([https://imgur.com/a/O7mwHO8])
+![RaceForge]([http://url/to/img.png](https://hizliresim.com/56iszaj))
 
 ## İçindekiler
 - [Genel Bakış](#genel-bakış)
