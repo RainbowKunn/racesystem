@@ -1,6 +1,6 @@
 # RaceForge Eklentisi (Irk Sistemi)
 
-![RaceForge]([http://url/to/img.png](https://hizliresim.com/56iszaj))
+![RaceForge](https://github.com/RainbowKunn/racesystem/blob/be85e379293070e51b488ab817ffa41f421950d7/RaceForge_749x499.png)
 
 ## İçindekiler
 - [Genel Bakış](#genel-bakış)
@@ -19,6 +19,7 @@
 - [Placeholder'lar](#placeholderlar)
 - [Yapılandırma](#yapılandırma)
 - [LuckPerms Entegrasyonu](#luckperms-entegrasyonu)
+- [API Kullanımı](#api-kullanımı)
 - [Sık Sorulan Sorular](#sık-sorulan-sorular)
 - [İletişim](#i̇letişim)
 
