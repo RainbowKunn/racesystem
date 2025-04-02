@@ -133,7 +133,7 @@ IrkSistemi eklentisi, dört benzersiz ırk sunar. Her ırkın kendi özellikleri
 **Temel Özellikler:**
 - Başlangıç Sağlık: 20 (10 ❤)
 - Hasar Çarpanı: 1.0
-- Başlangıç Yetenek Puanı: 3
+- Başlangıç Yetenek Puanı: 1
 
 **Pasif Yetenekler:**
 - Bilgelik: %25 daha fazla XP kazanma
@@ -183,7 +183,7 @@ Elfler çevik ve doğa ile uyumlu bir ırktır. Okçulukta ustadırlar ve doğad
 **Temel Özellikler:**
 - Başlangıç Sağlık: 18 (9 ❤)
 - Hasar Çarpanı: 1.2
-- Başlangıç Yetenek Puanı: 3
+- Başlangıç Yetenek Puanı: 1
 
 **Pasif Yetenekler:**
 - Keskin Göz: Kritik vuruş şansını ve hasarını artırır
@@ -208,7 +208,7 @@ Orklar vahşi ve güçlü savaşçılardır. Yakın dövüşte avantajlıdırlar
 **Temel Özellikler:**
 - Başlangıç Sağlık: 24 (12 ❤)
 - Hasar Çarpanı: 1.1
-- Başlangıç Yetenek Puanı: 3
+- Başlangıç Yetenek Puanı: 1
 
 **Pasif Yetenekler:**
 - Kaba Kuvvet: Yakın dövüş hasarını artırır
