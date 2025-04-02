@@ -283,7 +283,10 @@ Irk Marketi, her ırk için özel eşyalar sunar. Bu eşyalar holokron ile satı
    - Legolas Zırh Seti
 
 4. **Ork Eşyaları**:
+   - Ork Balyozu
    - Savaş Baltası
+   - Kemik Kıran Kılıcı
+   - Öfke Zırhı
 
 ### Market Kullanımı
 
